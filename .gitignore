@@ -8,3 +8,27 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+*.iml
+.eclipse
+.settings/
+.sts4-cache/
+.project
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# classpath files
+.classpath
